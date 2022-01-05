@@ -134,7 +134,11 @@ h4{
     text-align: center;
     background-color: black;
     color: white;
-    padding: 30px;
+    padding: 20px;
+}
+.italianno-font{
+    font-family: 'Italianno', cursive;
+    
 }
 .tomato-color{
     color: tomato;
