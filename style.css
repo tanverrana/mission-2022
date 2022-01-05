@@ -1,0 +1,112 @@
+h1{
+    font-size: 50px;
+}
+h2{
+    font-size: 40px;
+}
+h3{
+    font-size: 30px;
+}
+h4{
+    font-size: 20px;
+}
+.orange-colour{
+    color: orange;
+}
+.flexible-container{
+    display: flex;
+    margin-left: 10%;
+    margin-right: 10%;
+}
+.half-width{
+    width: 50%;
+    
+}
+.half-width img{
+    width: 80%;
+}
+.border-color{
+    border-left: 3px solid tomato;
+    border-radius: 1px;
+    padding-left: 10px;
+}
+.link-button{
+    text-decoration: none;
+    background: tomato;
+    color: white;
+    font-weight: 500;
+    border-radius: 5px;
+    padding: 10px 30px;
+}
+.mission-image{
+    height: 150px;
+    width: 120px;
+}
+.mission-2022{
+    
+    margin-left: 10%;
+    margin-right: 10%;
+    margin-bottom: 5%;
+}
+.mission-2022 h2{
+    text-align: center;
+}
+.mission-item{
+    display: flex;
+}
+.mission{
+    background-color: rgb(195, 221, 231);
+    margin-right: 20px;
+    padding-right: 20px;
+    padding-left: 20px;
+    padding-bottom: 20px;
+    border-radius: 20px;
+}
+.vission{
+    background-color: rgb(231, 169, 118);
+    margin-right: 20px;
+    padding-right: 20px;
+    padding-left: 20px;
+    padding-bottom: 20px;
+    border-radius: 20px;
+}
+.goals{
+    background-color: rgba(184, 197, 63, 0.699);
+    padding-right: 20px;
+    padding-left: 20px;
+    padding-bottom: 20px;
+    border-radius: 20px;
+}
+.community{
+    display: flex;
+}
+.half-width-two{
+    margin-left: 10%;
+    margin-right: 10%;
+    width: 40%;
+    margin-bottom: 5%;
+}
+.half-width-two img{
+    width: 80%;
+}
+.round-banner-1{
+    background-image: url(images/shapes/shape-1.png);
+    background-repeat: no-repeat;
+    background-size: 10%;
+    background-position: 80px 80px;
+}
+.round-banner-2{
+    background-image: url(images/shapes/shape-1.png);
+    background-repeat: no-repeat;
+    background-size: 10%;
+    background-position: 1050px 220px;
+}
+.footer{
+    text-align: center;
+    background-color: black;
+    color: white;
+    padding: 30px;
+}
+.tomato-color{
+    color: tomato;
+}
