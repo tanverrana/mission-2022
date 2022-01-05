@@ -101,6 +101,35 @@ h4{
     background-size: 10%;
     background-position: 1050px 220px;
 }
+.skill-section{
+    text-align: center;
+    margin-left: 10%;
+    margin-right: 10%;
+    margin-bottom: 5%;
+}
+.skill-item{
+    display: flex;
+    
+}
+.skill-item img{
+    height: 100px;
+    width: 100px;
+}
+.web-design{
+    box-shadow: 10px 10px 20px gray;
+    margin-left: 20px;
+    padding: 20px;
+}
+.cyber-secqurity{
+    box-shadow: 10px 10px 20px gray;
+    margin-right: 20px;
+    margin-left: 30px;
+    padding: 20px;
+}
+.digital-marketing{
+    box-shadow: 10px 10px 20px gray;
+    padding: 20px;
+}
 .footer{
     text-align: center;
     background-color: black;
