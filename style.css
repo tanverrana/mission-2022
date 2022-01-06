@@ -56,7 +56,7 @@ h4{
     display: flex;
 }
 .mission{
-    background-color: rgb(195, 221, 231);
+    background-color: #dff9fb;
     margin-right: 20px;
     padding-right: 20px;
     padding-left: 20px;
@@ -64,7 +64,7 @@ h4{
     border-radius: 20px;
 }
 .vission{
-    background-color: rgb(231, 169, 118);
+    background-color: #fab1a0;
     margin-right: 20px;
     padding-right: 20px;
     padding-left: 20px;
@@ -72,7 +72,7 @@ h4{
     border-radius: 20px;
 }
 .goals{
-    background-color: rgba(184, 197, 63, 0.699);
+    background-color: #ffeaa7;
     padding-right: 20px;
     padding-left: 20px;
     padding-bottom: 20px;
