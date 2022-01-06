@@ -48,6 +48,7 @@ h4{
     margin-left: 10%;
     margin-right: 10%;
     margin-bottom: 5%;
+    
 }
 .mission-2022 h2{
     text-align: center;
@@ -108,6 +109,7 @@ h4{
     margin-right: 10%;
     margin-bottom: 5%;
 }
+
 .skill-item{
     display: flex;
     
@@ -121,21 +123,30 @@ h4{
     margin-left: 20px;
     padding: 20px;
 }
+.web-design:hover{
+    box-shadow: 5px 5px 40px gray;
+}
 .cyber-secqurity{
     box-shadow: 10px 10px 20px gray;
     margin-right: 20px;
     margin-left: 30px;
     padding: 20px;
 }
+.cyber-secqurity:hover{
+    box-shadow: 5px 5px 40px gray;
+}
 .digital-marketing{
     box-shadow: 10px 10px 20px gray;
     padding: 20px;
+}
+.digital-marketing:hover{
+    box-shadow: 5px 5px 40px gray;
 }
 .footer{
     text-align: center;
     background-color: black;
     color: white;
-    padding: 20px;
+    padding: 5px;
 }
 .italianno-font{
     font-family: 'Italianno', cursive;
